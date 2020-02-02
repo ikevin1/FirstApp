@@ -1,0 +1,19 @@
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.AssemblyInfoInputs.cache
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.AssemblyInfo.cs
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.dll
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.pdb
+/Volumes/NO NAME/Mobile Dev App/Unit 2/App/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.csprojAssemblyReference.cache
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+E:\Mobile Dev App\Unit 2\App\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb
